@@ -6,7 +6,11 @@
     <br>A Computer Science Enthousiasmer<br>
   </samp>
 </p>
-<p align="center"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=Tverous&count_private=true&theme=radical" /></p>
+
+<p align="center">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tverous&layout=compact&hide=html" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=Tverous&count_private=true&theme=radical" />
+</p>
 
 <!--
 **Tverous/Tverous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
