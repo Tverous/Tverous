@@ -1,6 +1,4 @@
 <p align="center">
-  <img height="85" src="https://github.com/Tverous/Tverous/blob/main/asset/giphy2.gif" />
-  <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Tverous</a></b>.
     <br>A Computer Science Enthousiasmer<br>
